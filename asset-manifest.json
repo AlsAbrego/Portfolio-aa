@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Portfolio-aa/static/css/main.4b736112.chunk.css",
+    "main.js": "/Portfolio-aa/static/js/main.ddaaca1a.chunk.js",
+    "main.js.map": "/Portfolio-aa/static/js/main.ddaaca1a.chunk.js.map",
+    "runtime-main.js": "/Portfolio-aa/static/js/runtime-main.25965751.js",
+    "runtime-main.js.map": "/Portfolio-aa/static/js/runtime-main.25965751.js.map",
+    "static/js/2.7db02fb5.chunk.js": "/Portfolio-aa/static/js/2.7db02fb5.chunk.js",
+    "static/js/2.7db02fb5.chunk.js.map": "/Portfolio-aa/static/js/2.7db02fb5.chunk.js.map",
+    "index.html": "/Portfolio-aa/index.html",
+    "precache-manifest.2cb72fbff4eb9c7daee9c35dc66c3a05.js": "/Portfolio-aa/precache-manifest.2cb72fbff4eb9c7daee9c35dc66c3a05.js",
+    "service-worker.js": "/Portfolio-aa/service-worker.js",
+    "static/css/main.4b736112.chunk.css.map": "/Portfolio-aa/static/css/main.4b736112.chunk.css.map",
+    "static/media/index.css": "/Portfolio-aa/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/AndreAbrego_logo.png": "/Portfolio-aa/static/media/AndreAbrego_logo.c048afc7.png",
+    "static/media/Extreme_Makers_logo.png": "/Portfolio-aa/static/media/Extreme_Makers_logo.38882e11.png",
+    "static/media/INP_enseeiht_logo.png": "/Portfolio-aa/static/media/INP_enseeiht_logo.74e9ca18.png",
+    "static/media/Ideari_logo.png": "/Portfolio-aa/static/media/Ideari_logo.74851493.png",
+    "static/media/Jacto_logo.png": "/Portfolio-aa/static/media/Jacto_logo.f64c7c01.png",
+    "static/media/Lider_Balanças_logo.png": "/Portfolio-aa/static/media/Lider_Balanças_logo.df961e60.png",
+    "static/media/Petrobras_logo.png": "/Portfolio-aa/static/media/Petrobras_logo.3654e123.png",
+    "static/media/Solinftec_logo.png": "/Portfolio-aa/static/media/Solinftec_logo.b6512c1f.png",
+    "static/media/ada_tech_lets_code.png": "/Portfolio-aa/static/media/ada_tech_lets_code.76434a31.png",
+    "static/media/digital_innovation_one_logo.png": "/Portfolio-aa/static/media/digital_innovation_one_logo.57ea8414.png",
+    "static/media/duke_university_logo.png": "/Portfolio-aa/static/media/duke_university_logo.4cba7916.png",
+    "static/media/edX_coursera_logo.png": "/Portfolio-aa/static/media/edX_coursera_logo.bf6ac317.png",
+    "static/media/edX_logo.png": "/Portfolio-aa/static/media/edX_logo.6cc49138.png",
+    "static/media/all.css": "/Portfolio-aa/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/github_logo.png": "/Portfolio-aa/static/media/github_logo.6eeb2e81.png",
+    "static/media/grupoaralco_logo.png": "/Portfolio-aa/static/media/grupoaralco_logo.b3067526.png",
+    "static/media/senai_logo_black.png": "/Portfolio-aa/static/media/senai_logo_black.d1c6a8f7.png",
+    "static/media/unesp_logo.png": "/Portfolio-aa/static/media/unesp_logo.28c1a044.png",
+    "static/media/unesp_logo_2.png": "/Portfolio-aa/static/media/unesp_logo_2.a4ee6477.png",
+    "static/media/unesp_logo_2.svg": "/Portfolio-aa/static/media/unesp_logo_2.d9066f50.svg",
+    "static/media/wyden_educare.png": "/Portfolio-aa/static/media/wyden_educare.0816bed1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25965751.js",
+    "static/js/2.7db02fb5.chunk.js",
+    "static/css/main.4b736112.chunk.css",
+    "static/js/main.ddaaca1a.chunk.js"
+  ]
+}

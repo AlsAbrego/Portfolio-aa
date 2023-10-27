@@ -1,0 +1,15 @@
+.footer-text {
+  text-align: center;
+  /* color: #868e96; */
+  font-weight: bold;
+  font-family: "Google Sans Regular";
+}
+
+.footer-div {
+  margin-top: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: #797878;
+}

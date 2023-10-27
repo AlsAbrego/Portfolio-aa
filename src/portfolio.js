@@ -207,7 +207,7 @@ const skills = {
       fileName: "DesignImg",
       skills: [
         "⚡ Design interface for web app",
-        "⚡ Criação de logos fylers usando softwares de edição de imagens e texto vetoriais",
+        "⚡ Criação de logos e flyers usando softwares de edição de imagens e texto vetoriais",
         "⚡ Experiências básicas em Corel Draw, Figma, Inkscape, Adobre illustrator, ...",
       ],
       softwareSkills: [

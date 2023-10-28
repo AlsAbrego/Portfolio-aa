@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "PortFolioAAbrego",
-  "homepage": "https://alsabrego.github.io/Portfolio-aa",
+  "homepage": "https://aa-porfolio.tech/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",

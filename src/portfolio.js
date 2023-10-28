@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "André Abrego",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "",
   og: {
     title: "Portfolio - André Abrego",
     type: "website",
@@ -57,7 +57,7 @@ const socialMediaLinks = [
   },
   {
     name: "Whatssap",
-    link: "https://wa.me/551898198669",
+    link: "https://wa.me/5518981986669",
     fontAwesomeIcon: "fab fa-whatsapp", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#25D366", //<i class=""></i>
   },
